@@ -1,2 +1,0 @@
-# abhi_starz
-web
